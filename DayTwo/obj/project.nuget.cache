@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r5UKXCbNBlK/QgLHCVYvANCTzLqFCShZ95qUZYuei+mUZFlECq1ZX1WtWCWskxs8XUZGorfoex5oIhKoPPlDHA==",
+  "success": true,
+  "projectFilePath": "/home/philip/Documents/GitHub/Advent_Of_Code/Advent_Of_Code.csproj",
+  "expectedPackageFiles": [
+    "/home/philip/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/philip/Documents/GitHub/Advent_Of_Code/obj/Debug/net8.0/Advent_Of_Code.GeneratedMSBuildEditorConfig.editorconfig
+/home/philip/Documents/GitHub/Advent_Of_Code/obj/Debug/net8.0/Advent_Of_Code.AssemblyInfoInputs.cache
+/home/philip/Documents/GitHub/Advent_Of_Code/obj/Debug/net8.0/Advent_Of_Code.AssemblyInfo.cs
+/home/philip/Documents/GitHub/Advent_Of_Code/obj/Debug/net8.0/Advent_Of_Code.csproj.CoreCompileInputs.cache
+/home/philip/Documents/GitHub/Advent_Of_Code/obj/Debug/net8.0/Advent_Of_Code.sourcelink.json
+/home/philip/Documents/GitHub/Advent_Of_Code/bin/Debug/net8.0/Advent_Of_Code
+/home/philip/Documents/GitHub/Advent_Of_Code/bin/Debug/net8.0/Advent_Of_Code.deps.json
+/home/philip/Documents/GitHub/Advent_Of_Code/bin/Debug/net8.0/Advent_Of_Code.runtimeconfig.json
+/home/philip/Documents/GitHub/Advent_Of_Code/bin/Debug/net8.0/Advent_Of_Code.dll
+/home/philip/Documents/GitHub/Advent_Of_Code/bin/Debug/net8.0/Advent_Of_Code.pdb
+/home/philip/Documents/GitHub/Advent_Of_Code/obj/Debug/net8.0/Advent_Of_Code.dll
+/home/philip/Documents/GitHub/Advent_Of_Code/obj/Debug/net8.0/refint/Advent_Of_Code.dll
+/home/philip/Documents/GitHub/Advent_Of_Code/obj/Debug/net8.0/Advent_Of_Code.pdb
+/home/philip/Documents/GitHub/Advent_Of_Code/obj/Debug/net8.0/Advent_Of_Code.genruntimeconfig.cache
+/home/philip/Documents/GitHub/Advent_Of_Code/obj/Debug/net8.0/ref/Advent_Of_Code.dll
